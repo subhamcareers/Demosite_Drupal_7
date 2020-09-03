@@ -1,0 +1,39 @@
+College and Programme should be in entity relatiion to each other
+
+Course Dummy:
+
+Post Graduate Diploma in Management (Finance)
+Course Type:PGDM
+Exams Accepted:CAT, XAT, MAT, CMAT, ATMA, GMAT
+Tuition Fee:INR 10,00,000
+Duration: 24 Months
+Total Seats: 60
+
+
+
+
+
+National Institute of Financial Management, Faridabad
+Government Established 1994
+Address : Sector 48,Pali Road, Faridabad 121 001 Haryana
+City: Faridabad
+State: Haryana
+
+Admissions: To apply, submit details below…
+
+
+Institute Highlights:
+
+The National Institute of Financial Management (NIFM) is a Center of Excellence specializing in capacity building of professionals in the field of Public Policy, Financial Management, Financial Markets and other governance issues for promoting highest standards of professional competence and practice. NIFM was set up in 1993 as a registered society under Ministry of Finance, Government of India.
+ 
+
+The Highlights of the Programme are:
+
+AICTE Approved, Two-year, Full Time, Hostel Accommodation
+Eight Mandatory Certifications by NISM, SEBI
+Options Certifications from Bloomberg and Thomson Reuters
+One Week Visit to International Financial Centers in Singapore
+One Week Visit to Domestic Financial Centers in Mumbai
+State of the Art Computer Lab & Software: Bloomberg Terminal, Thomson Reuters Terminal, PROWESS
+Multiple Pedagogy-Workshops, Simulations, Cases, Live Projects, Conferences
+100% Placement Assistance (details regarding our recruiters is given in Brochure on NIFM website)

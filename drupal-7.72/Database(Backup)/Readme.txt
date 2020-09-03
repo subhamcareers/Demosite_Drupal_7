@@ -1,0 +1,2 @@
+This is database backup of the Drupal demosite developed under the guidance of AMit Agnihotri and Abhijeet Sandil in favor to MBA Universe.com.
+The File is a backup for the website that was hosted on local server it is not a live site and yet to be examined. The Database is being shared to Abhijeet Sir for the futher Inspection.

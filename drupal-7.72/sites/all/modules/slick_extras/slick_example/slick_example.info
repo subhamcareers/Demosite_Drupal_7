@@ -1,0 +1,17 @@
+name = Slick Example
+description = Provides Slick examples, the last carousel examples.
+package = Slick
+core = 7.x
+
+autoload = TRUE
+registry_autoload[] = PSR-4
+
+dependencies[] = slick:slick_fields (>= 3.x)
+dependencies[] = slick_extras:slick_extras (>= 3.x)
+dependencies[] = slick_views:slick_views (>= 3.x)
+
+; Information added by Drupal.org packaging script on 2019-03-08
+version = "7.x-3.0"
+core = "7.x"
+project = "slick_extras"
+datestamp = "1552059187"
